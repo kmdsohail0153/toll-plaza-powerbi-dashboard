@@ -5,8 +5,7 @@ This project visualizes and analyzes toll plaza data across India using Power BI
 ## 📁 Files Included
 - `Toll_Plaza_Dashboard.pbix` – Power BI report
 - `toll_plaza_cleaned.csv` – Dataset of 497 toll plazas
-- `exported_dashboard.pdf` – Exported version for quick view (optional)
-- `background_image.png` – Custom canvas background (optional)
+-  'exported image' – Exported version for quick view
 
 ## 🔍 Dataset Description
 The dataset contains information on toll plazas including:
@@ -20,7 +19,6 @@ Source: [Kaggle - Toll Plaza Dataset](https://www.kaggle.com/datasets/minorityhu
 - **Donut Chart**: Plaza type distribution
 - **Matrix Table**: State vs. Concessionaire
 - **Slicers**: Interactive filters for State, Type, Concessionaire
-- **Background Image**: Styled asphalt texture
 - **Title & Tooltips**: Professional formatting
 
 ## 🚀 How to View the Report
