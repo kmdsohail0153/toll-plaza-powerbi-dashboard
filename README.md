@@ -28,5 +28,5 @@ Open the `.pbix` file in **Power BI Desktop** (free tool from Microsoft).
 
 ## 📌 Author
 Kurnool MD Sohail  
-[GitHub](https://github.com/kmdsohail0153) | [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/md-sohail-kurnool-6965b62b7/))
+[GitHub](https://github.com/kmdsohail0153) | [LinkedIn](https://www.linkedin.com/in/md-sohail-kurnool-6965b62b7/)
 
